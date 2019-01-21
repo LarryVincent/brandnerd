@@ -7,7 +7,15 @@
 			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
 			<p>
-        {{ if isset .Params "summary" }}{{ .Params.Summary }}{{ else }}{{ .Summary }}{{ end }}
+			  {{ if .Description }}
+			    {{ .Description}}
+			  {{ else }}
+          {{ if isset .Params "summary" }}
+            {{ .Params.Summary }}
+          {{ else }}
+            {{ .Summary }}
+          {{ end }}
+        {{ end }}
       </p>
 		</article>
 {{ end }}
