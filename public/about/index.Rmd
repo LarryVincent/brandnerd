@@ -1,0 +1,14 @@
+---
+title: "About"
+author: "Larry Vincent"
+date: 2019-01-20
+hidefromhome: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+Brand Nerd is the blog of Larry Vincent. Larry is the Chief Brand Officer at [United Talent Agency](http://www.unitedtalent.com) and a marketing professor at the [Marshall School of Business](http://marshall.usc.edu) at [USC](http://usc.edu). He is the producer and co-host of _The Findings Report_, a [podcast](http://playpodca.st/findingsreport) and [blog](http://www.findingsreport.com) about consumer psychology and why people buy, like and share. He is the author of two books, _Legendary Brands_ (2002) and [_Brand Real_](http://brandrealbook.com) (2012).
+
+_Brand Nerd_ is a free-form blog where Larry posts essays, findings and snippets from his work in consumer research and as a data scientist.

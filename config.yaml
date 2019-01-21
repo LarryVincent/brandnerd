@@ -5,7 +5,14 @@ title: Brand Nerd
 author: Larry Vincent
 copyright: 2019 by Laurence Vincent
 
+menu:
+  main:
+  - identifier: about
+    name: about
+    url: "/about"
+
 params:
   logo: "/images/larry.png"
   twitter: "https://www.twitter.com/lvincent"
   github: "https://www.github.com/larryvincent"
+  

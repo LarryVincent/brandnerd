@@ -76,17 +76,32 @@ main {
   
 }
 
+
 .footer-link {
-  margin: 2rem 0;
+  font-weight: 300;
+  font-size: 1.1rem;
+  margin: 2rem 0 0 0;
+}
+
+.footer-link a {
+  text-decoration: none;
+}
+
+.footer-link a:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 1rem;
+  font-weight: 300;
 }
 
 .hr {
   height: 1px;
   margin: 2rem 0;
   background: #E1E1E1;
-  background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
-  background: -webkit-linear-gradient(left, white, #E1E1E1, white);
-  background: linear-gradient(to right, white, #E1E1E1, white);
 }
 
 blockquote {
@@ -97,4 +112,28 @@ blockquote {
   line-height: 1.8rem;
   border-left: 12px solid #dfdfdf;
   padding-left: 12px;
+}
+
+ul.nav {
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.nav li, ul.nav li a {
+  text-decoration: none;
+  list-style-type: none;
+  display: inline;
+  margin-right: 3px;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+ul.nav li:last-child, ul.nav li:last-child a {
+  margin-right: 0;
+}
+
+ul.nav li a:hover {
+  text-decoration: underline;
 }

@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 by Laurence Vincent</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Brand Nerd is the blog of Larry Vincent. Larry is the Chief Brand Officer at United Talent Agency and a marketing professor at the Marshall School of Business at USC. He is the producer and co-host of The Findings Report, a podcast and blog about consumer psychology and why people buy, like and share. He is the author of two books, Legendary Brands (2002) and Brand Real (2012).
+Brand Nerd is a free-form blog where Larry posts essays, findings and snippets from his work in consumer research and as a data scientist.</description>
+    </item>
+    
+    <item>
       <title>Purpose</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>I believe I was once quoted saying, “I need another blog like I need a hole in my head.” I don’t quite recall where that was quoted or by whom, but the sentiment is true. I have a couple of blogs. So, why start another?
