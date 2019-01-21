@@ -1,0 +1,11 @@
+theme: "hugo-zen"
+baseURL: http://brandnerd.io/
+languageCode: en-us
+title: Brand Nerd
+author: Larry Vincent
+copyright: 2019 by Laurence Vincent
+
+params:
+  logo: "/images/larry.png"
+  twitter: "https://www.twitter.com/lvincent"
+  github: "https://www.github.com/larryvincent"

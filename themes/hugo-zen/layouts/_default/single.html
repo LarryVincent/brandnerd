@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">{{ .Title }}</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
+			<p class="entry-tags">
+			  {{ with .Params.tags }}
+			  <i class="fa fa-tags" style="color: #b1b1b1;"></i> {{ range . }}<a href="{{ $baseurl }}tags/{{ . | urlize }}" class="tag-link">{{ . }}</a> {{ end }}
+			  {{ end }}
+			</p>
+
+			<section itemprop="entry-text">
+				{{ .Content }}
+			</section>
+		</article>
+	</main>
+
+{{ partial "footer.html" . }}
