@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 by Laurence Vincent</copyright>
-    <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Artist and The Scientist</title>
+      <link>/post/the-artist-and-the-scientist/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-artist-and-the-scientist/</guid>
+      <description>I’ve made a career out of categorizing and labeling things. That’s what branding is, when you get right down to it. Whether it’s a widget or an experience, your goal as a brand strategist is to help people think about a product or service in a certain categorical context, and then associate it with a distinctive name and identity.
+I’ve been doing this for over 25 years. That’s why I find it funny that I struggle to categorize and label myself.</description>
+    </item>
     
     <item>
       <title>About</title>

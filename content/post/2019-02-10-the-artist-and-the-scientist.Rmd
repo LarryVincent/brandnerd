@@ -1,0 +1,27 @@
+---
+title: The Artist and The Scientist
+author: Larry Vincent
+date: '2019-02-10'
+slug: the-artist-and-the-scientist
+categories:
+  - essays
+tags:
+  - career
+  - essays
+  - creativity
+---
+I've made a career out of categorizing and labeling things. That's what branding is, when you get right down to it. Whether it's a widget or an experience, your goal as a brand strategist is to help people think about a product or service in a certain categorical context, and then associate it with a distinctive name and identity. 
+
+I've been doing this for over 25 years. That's why I find it funny that I struggle to categorize and label myself. I imagine everyone struggles with this from time to time, but perhaps it's easier from a career standpoint to identify as an accountant, a lawyer, or a doctor. At parties, I tell people I'm a marketer. It's easier than saying I'm a "brand strategist." Socializing what I do isn't the issue, though. It's aligning with the expectations inside my field that causes challenges.
+
+Many years ago, I was approached by a recruiter for an exciting job opportunity. "Your resume is exotic," she said. At that stage in my career, I had completed a tour of duty at The Walt Disney Company, I'd worked for a few years in the arts, and I had also co-founded a marketing agency with several former Disney colleagues. I loved each and every phase of that journey, which is why I was unsettled by having it characterized as "exotic." She meant no harm. She explained that she merely meant to say that my career path was unusual and hard to categorize. It wasn't clear if I was on an agency path, an entertainment path or an entrepreneurial path. Further, my various roles didn't point to a clear role within an organization. Her words bothered me then. Now, they are a source of pride.
+
+I've been thinking about this a lot lately because I get a lot of requests for information interviews--usually from young, aspiring students and professionals who believe I can give them some sage career advice. They often ask, "how did you get to where you are?" I chuckle and advise them not to put too much stock into my journey. But each time I'm asked the question I reflect afterwards. The jobs of my career don't tell my story. Instead, it's the interests. Herein lies my real identity crisis, and also the source of my experience.
+
+Am I a creative or a manager? An artist or a scientist? A writer or a researcher? My inclination is to say, "yes." But that's not how we typically sort people in the workforce. Each of these designations is generally on opposite ends of a spectrum. 
+
+My career started on the creative end of the spectrum. I went to film school. I studied theatre. I wrote and directed plays. I made ends meet from time to time as a photographer. But that's only half of my early years. I am the son of a physicsist. I was building breadboards and coding software when I was 12. In those early years, when I was occasionally behind the lens shooting a band or an actor's headshot to make a few bucks, I was also writing code as a freelancer. To direct the plays I wanted to explore, I formed my own company and discovered a fascination with business management, entrepreneurship and this weird and very interesting discipline of branding.
+
+As my career progressed, I followed both paths. I went to business school. I was an early adopter of the web when it exploded in the 90s. I designed and coded my own sites. I did the same for others, moonlighting from time to time. I wrote a book on branding, then a collection of poetry, and then another book on branding. I became adept at quantitative research. That led me to R and adventures in data science. By the time I was offered my current job, it was hard for me to separate the creative from the scientific. Fortunately, that's a perfect combo for my life at UTA. At the Brand Studio I've had the priviledge of serving as an executive, the lead writer, and the lead researcher. Somehow, these personas blend together in a way that perfectly expresses who I am.
+
+Despite this delicious melange of identities and interests, it's hard for me to prescribe a path to others to achieve the same outcome. I think that needs to change. We need to stop expecting professionals to follow one rigid linear path. For some, that clear trajectory may make sense. But I suspect there are more people out there like me who waver between life in the world of creativity and life in the world of objectivity. As the world of work transforms, and algorithms take on the repetitive work that once required human labor, we will need well-rounded workers--workers who can imagine verse and manage code.
