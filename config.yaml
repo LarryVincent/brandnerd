@@ -8,10 +8,10 @@ copyright: 2019 by Laurence Vincent
 menu:
   main:
   - identifier: about
-    name: about
+    name: About Brand Nerd
     url: "/about"
 params:
-  logo: "/images/brandnerd.jpg"
+  logo: "/images/brand-nerd-rubric.jpg"
   twitter: "https://www.twitter.com/lvincent"
   github: "https://www.github.com/larryvincent"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

@@ -2,11 +2,14 @@
 	<footer role="contentinfo">
 		<div class="hr"></div>
 		<div class="footer-link">
-			{{ with .Site.Params.email }}<a href="mailto:{{ . }}" target="_blank">Email</a>{{ end }}
-			{{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a>{{ end }}
-			{{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank">Facebook</a>{{ end }}
-			{{ with .Site.Params.github }}<a href="{{ . }}" target="_blank">GitHub</a>{{ end }}
-			{{ with .Site.Params.gitlab }}<a href="{{ . }}" target="_blank">GitLab</a>{{ end }}
+	    {{ range .Site.Menus.main }}
+	     <span class="footer-menu-item"><a href="{{ .URL }}">{{ .Name }}</a></span>
+	    {{ end }}
+			{{ with .Site.Params.email }}<span class="footer-menu-item"><a href="mailto:{{ . }}" target="_blank">Email</a></span>{{ end }}
+			{{ with .Site.Params.twitter }}<span class="footer-menu-item"><a href="{{ . }}" target="_blank">Twitter</a></span>{{ end }}
+			{{ with .Site.Params.facebook }}<span class="footer-menu-item"><a href="{{ . }}" target="_blank">Facebook</a></span>{{ end }}
+			{{ with .Site.Params.github }}<span class="footer-menu-item"><a href="{{ . }}" target="_blank">GitHub</a></span>{{ end }}
+			{{ with .Site.Params.gitlab }}<span class="footer-menu-item"><a href="{{ . }}" target="_blank">GitLab</a></span>{{ end }}
 		</div>
 		<div class="copyright">Copyright &copy; {{ .Site.Copyright | safeHTML }}</div>
 	</footer>
