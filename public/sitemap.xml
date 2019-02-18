@@ -53,13 +53,13 @@
   </url>
   
   <url>
-    <loc>/categories/essays/</loc>
+    <loc>/tags/essays/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/essays/</loc>
+    <loc>/categories/essays/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -71,13 +71,13 @@
   </url>
   
   <url>
-    <loc>/categories/podcasting/</loc>
+    <loc>/tags/podcasting/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/podcasting/</loc>
+    <loc>/categories/podcasting/</loc>
     <lastmod>2019-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
