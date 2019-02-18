@@ -74,6 +74,7 @@ main {
 }
 
 .entry-title a:hover {
+	color: #FF5B77;
 	text-decoration: underline;
 }
 
