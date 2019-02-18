@@ -12,7 +12,7 @@
 			</p>
 
 			<section itemprop="entry-text">
-				{{ .Content }}
+				{{ .Content | replaceRE "<p>" "<p class=\"story-style\">" | safeHTML }}
 			</section>
 		</article>
 	</main>
